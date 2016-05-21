@@ -1,0 +1,12 @@
+{
+  "name": "dpgraph",
+  "version": "1.0.0",
+  "description": "Asterisk Dialplan visualizer",
+  "main": "dpgraph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Poddubny <ivan.poddubny@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
